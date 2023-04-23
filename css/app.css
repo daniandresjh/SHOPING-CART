@@ -1,0 +1,47 @@
+.shopping-cart {
+  border: 3px solid #000;
+  font-family: "Courier New", Courier, monospace;
+}
+.header {
+  text-align: center;
+  background-color: #f7f7f7;
+}
+.product-img {
+  width: 250px;
+  height: 250px;
+}
+.price {
+  font-size: 20px;
+}
+.shipping {
+  color: #444;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.more-information:link {
+  color: #000;
+}
+.more-information:visited {
+  color: #000;
+}
+
+.more-information:hover {
+  text-decoration: none;
+}
+.product-details {
+  text-transform: uppercase;
+}
+.list-product {
+  list-style: square;
+}
+.btn-cart {
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  border: none;
+}
+.btn-cart:hover {
+  background-color: #fff;
+  color: #000;
+}
